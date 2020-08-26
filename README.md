@@ -5,7 +5,10 @@ There is a place for the owner to register themselves and for them to add their 
 
 Here is the code: 
 
-![](/pupapp1.jpg)
+![](/pupappcode1.jpg)
 
+Here's what it looks like.
+
+![](/pupappcode8.jpg) ![](/pupappcode9.jpg) 
 
 
