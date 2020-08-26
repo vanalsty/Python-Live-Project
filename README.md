@@ -19,4 +19,10 @@ You can add your pup to the list, edit the pups information, or delete the pup
 
 ![](/pupappcode10.jpg) 
 
+I also added some CSS styling to my page.
+
+![](/pupappcode11.jpg) 
+
+![](/pupappcode12.jpg) 
+
 
